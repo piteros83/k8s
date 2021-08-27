@@ -1,0 +1,21 @@
+# K8s Resource Type Abbreviations
+componentstatuses cs
+configmaps cm
+daemonsets ds
+deployments deploy
+endpoints ep
+event ev
+horizontalpodautoscalers hpa
+ingresses ing
+limitranges limits
+namespaces ns
+nodes no
+persistentvolumeclaims pvc
+persistentvolumes pv
+pods po
+podsecuritypolicies psp
+replicasets rs
+replicationcontrollers rc
+resourcequotas quota
+serviceaccount sa
+services svc
